@@ -1,0 +1,28 @@
+name: The Elementary MBA
+favicon: null
+layout_spectrum: 0.8596801902167499
+typography_spectrum: 0.06478050933219492
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.846967869438231
+  lightness: 0.4148188403341919
+  saturation: 0.06257861433550715
+  rhythmicContrast: 0.5722833618056029
+purpose: []
