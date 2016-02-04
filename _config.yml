@@ -2,12 +2,13 @@ name: The Elementary MBA
 favicon: null
 layout_spectrum: 0.8596801902167499
 typography_spectrum: 0.06478050933219492
+title: The Elementary MBA
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-73349047-2
   facebook: null
   twitter: null
 opengraph:
