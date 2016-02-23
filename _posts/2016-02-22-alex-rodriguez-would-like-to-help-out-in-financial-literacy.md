@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: How Google Alerts helps me find what I want. I want articles about financial literacy.
-datePublished: '2016-02-22T16:04:40.775Z'
-dateModified: '2016-02-22T16:04:24.494Z'
+datePublished: '2016-02-23T16:14:11.624Z'
+dateModified: '2016-02-23T16:13:38.162Z'
 title: 'Alex Rodriguez would "like to help out in financial literacy for the Hispanic community and the athletic community."'
 author: []
+sourcePath: _posts/2016-02-22-alex-rodriguez-would-like-to-help-out-in-financial-literacy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-22-alex-rodriguez-would-like-to-help-out-in-financial-literacy.md
-published: true
 url: alex-rodriguez-would-like-to-help-out-in-financial-literacy/index.html
 _type: Article
 
