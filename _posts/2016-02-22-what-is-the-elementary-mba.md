@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: A Description Of The Elementary MBA.
-datePublished: '2016-02-22T16:53:46.988Z'
-dateModified: '2016-02-22T16:53:02.818Z'
+datePublished: '2016-03-04T16:48:46.445Z'
+dateModified: '2016-02-25T17:20:37.381Z'
 title: What Is The Elementary MBA?
 author: []
 authors: []
@@ -29,3 +29,5 @@ A fun rewarding and educational tool designed to prepare you to make better deci
 A fun rewarding and educational place designed to prepare you to make informed judgments and take effective actions
 regarding the current and future use and
 management of money.
+
+Which do you like better? I prefer the first one.
