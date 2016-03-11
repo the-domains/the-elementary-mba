@@ -4,7 +4,7 @@
         <description><![CDATA[The Elementary MBA]]></description>
         <link>http://blog.elementarymba.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 16:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2016 16:13:57 GMT</lastBuildDate>
         <atom:link href="http://blog.elementarymba.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What Is The Elementary MBA?]]></title>
@@ -12,6 +12,13 @@
             <link>http://blog.elementarymba.com/what-is-the-elementary-mba/index.html</link>
             <guid isPermaLink="false">2d18f21c-2e2f-47a5-a85a-34edee4deb83</guid>
             <pubDate>Fri, 04 Mar 2016 16:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A First-hand look at WC’s New Financial Literacy Program]]></title>
+            <description><![CDATA[<article><h1>A First-hand look at WC’s New Financial Literacy Program</h1><p>A First-hand look at WC’s New Financial Literacy Program – The Elm</p></article>]]></description>
+            <link>urn:uuid:9e532ccf-50b0-4a94-83d0-f3803f9d8e24</link>
+            <guid isPermaLink="false">18c16a55-35ca-41bd-9b4e-63783ac45a5b</guid>
+            <pubDate>Fri, 11 Mar 2016 16:12:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[West Hartford High Students Petition For Mandatory Financial Literacy Class ]]></title>
@@ -68,13 +75,6 @@
             <link>http://blog.elementarymba.com/alex-rodriguez-would-like-to-help-out-in-financial-literacy/index.html</link>
             <guid isPermaLink="false">c0c5f9eb-bd7e-4c6f-b074-b709087f63eb</guid>
             <pubDate>Tue, 23 Feb 2016 16:14:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Don't Teach Children About Money In School]]></title>
-            <description><![CDATA[<article><h1>Don't Teach Children About Money In School</h1><p>Schools are burdened with the task of creating functional people. Society desires more bodies to make more bodies to fill the 5,400,000 great open jobs in the United States. The classroom time is better utilized giving them marketable skills. Once the students get the jobs and the salaries they'll use the income to learn about money. The best way to learn anything is through experience. The experience of investing, spending, and earning will teach this and future generations as it has taught past generations about money.</p></article>]]></description>
-            <link>http://blog.elementarymba.com/dont-teach-to-children-about-money-in-school/index.html</link>
-            <guid isPermaLink="false">8f679847-6a22-4b99-b866-c757c7583561</guid>
-            <pubDate>Fri, 05 Feb 2016 17:55:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
