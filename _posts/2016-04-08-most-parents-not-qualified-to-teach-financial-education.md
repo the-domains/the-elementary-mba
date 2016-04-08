@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Parents Not Qualified to Teach Kids Financial Education
-datePublished: '2016-04-08T15:59:36.040Z'
-dateModified: '2016-04-08T15:59:26.583Z'
+datePublished: '2016-04-08T16:11:01.647Z'
+dateModified: '2016-04-08T15:59:39.535Z'
 author: []
 title: 'Most Parents NOT Qualified To Teach Financial Education!'
+sourcePath: _posts/2016-04-08-most-parents-not-qualified-to-teach-financial-education.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-most-parents-not-qualified-to-teach-financial-education.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
