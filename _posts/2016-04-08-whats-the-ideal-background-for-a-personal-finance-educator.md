@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ideal Background for a Personal Finance Educator - NFEC
-datePublished: '2016-04-08T15:46:00.422Z'
-dateModified: '2016-04-08T15:42:40.814Z'
+datePublished: '2016-04-08T15:59:58.607Z'
+dateModified: '2016-04-08T15:46:05.609Z'
 author: []
 title: "What's The Ideal Background For A Personal Finance Educator?"
+sourcePath: _posts/2016-04-08-whats-the-ideal-background-for-a-personal-finance-educator.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-whats-the-ideal-background-for-a-personal-finance-educator.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
